@@ -1,0 +1,34 @@
+[
+  {
+    "id": 0,
+    "nombre": "Rhizophagus irregularis (Glomus)",
+    "dias_infeccion": "21 días",
+    "tratamiento": "Inoculación en sustrato vermiculita y arena estéril (1:1). Riego con solución nutritiva Long Ashton modificada con bajo fósforo (20 ppm). Temperatura diurna 24°C, nocturna 18°C. Humedad 85%.",
+    "respuesta_ia": "Morfología confirmada: Presencia de hifas cenocíticas ramificadas y vesículas intra-radicales globosas de 40-70 µm. Ausencia de colonias bacterianas burbujeantes. Cultivo viable y de alta pureza.",
+    "fecha": "2026-10-15"
+  },
+  {
+    "id": 1,
+    "nombre": "Funneliformis mosseae",
+    "dias_infeccion": "28 días",
+    "tratamiento": "Sustrato a base de turba y perlita estéril. Riego controlado a capacidad de campo. Monitoreo semanal de colonización radicular mediante tinción con Azul de Tripano.",
+    "respuesta_ia": "Desarrollo miceliar simbiótico típico. Esporas esféricas amarillo-doradas con pared estratificada. Hifas de fijación con curvatura diagnóstica. Sin signos de exudados o gas.",
+    "fecha": "2026-10-18"
+  },
+  {
+    "id": 2,
+    "nombre": "Contaminación Bacteriana (Colonias Burbujeantes)",
+    "dias_infeccion": "4 días",
+    "tratamiento": "AISLAMIENTO URGENTE: Descartar o transferir ápices hifales sanos a medio agar papa dextrosa (PDA) suplementado con ampicilina (100 mg/L) y sulfato de estreptomicina (50 mg/L). Autoclavar material contaminado a 121°C por 20 min.",
+    "respuesta_ia": "ALERTA DE CONTAMINACIÓN: Formación evidente de colonias mucoides con vesículas gaseosas / microburbujas activas, características de proliferación bacteriana formadora de gas (Bacillus / anaerobios facultativos).",
+    "fecha": "2026-10-22"
+  },
+  {
+    "id": 3,
+    "nombre": "Pleurotus ostreatus (Micelio Puro)",
+    "dias_infeccion": "14 días",
+    "tratamiento": "Incubación a 25°C en total oscuridad. Medio extracto de malta agar (MEA). Humedad ambiental 90%. Revisar ausencia de Trichoderma o bacterias ácidolácticas.",
+    "respuesta_ia": "Micelio denso, blanco algodonoso vigoroso con fíbulas características observadas al microscopio óptico 400x. Cero colonias burbujeantes. Tasa de crecimiento óptima.",
+    "fecha": "2026-10-25"
+  }
+]

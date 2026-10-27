@@ -1,0 +1,35 @@
+======================================================================
+         MICORRIZASSOFT AI - EDICION NATIVA EN C# (.NET FRAMEWORK)
+======================================================================
+
+Esta edición ha sido completamente portada a C# nativo para Windows (.NET Framework),
+eliminando cualquier necesidad de instalar intérpretes de Python o dependencias externas.
+
+Archivos Ejecutables Generados:
+1. MicorrizasSoft.exe
+   - Aplicación principal nativa para Windows con interfaz WinForms.
+   - Integra cliente REST para Google Gemini Vision AI.
+   - Visor de placas de Petri y microscopía.
+   - Sistema de bloqueo y protección criptográfica del historial (SHA-256).
+   - Centinela anti-tamper y anti-depuración nativo en tiempo de ejecución.
+   - Editor de Guía de Cultivo XML.
+
+2. Instalador_MicorrizasSoft_Setup.exe
+   - Instalador ejecutable autónomo con asistente gráfico (Wizard).
+   - Permite seleccionar la carpeta de destino (por defecto C:\Program Files\MicorrizasSoft).
+   - Crea automáticamente accesos directos en el Escritorio y Menú Inicio.
+   - Genera el desinstalador del sistema.
+
+Compilación desde Código Fuente:
+- Si desea modificar el código en C#, puede recompilar los ejecutables
+  con un solo clic ejecutando:
+  "compilar_todo.bat"
+  (Utiliza el compilador oficial de Microsoft csc.exe incluido en Windows).
+
+Archivos de Datos:
+- config_seguridad.json: Hash SHA-256 de seguridad y API Key.
+- bd_microscopia.json: Base de datos de microscopía y tratamientos.
+- guia_cultivo.xml: Protocolo de cultivo enriquecido.
+- modelo_metadata.json: Metadatos del clasificador.
+- capturas_petri/: Carpeta para el resguardo de imágenes.
+======================================================================
